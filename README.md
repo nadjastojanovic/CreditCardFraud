@@ -23,7 +23,6 @@ The Class feature is the dependent variable and it takes value 1 in case of frau
 Checking for normal distribution in all of the features ↓
 
 <img src="https://imgur.com/qHmBCnB.png" width="400px">
-<br><br>
 
 ## 🔍 Model Evaluation
 
@@ -34,7 +33,6 @@ Confusion matrix on the training set
 Confusion matrix on the test set
 
 <img src="https://imgur.com/jCI4znT.png" width="400" />
-<br><br>
 
 ## 💡 To-do
 
